@@ -1,0 +1,247 @@
+.section1
+{
+	background-color: rgb(182, 182, 182);
+}
+#menu
+{
+	padding-left: 730px;
+	padding-top: 30px;
+}
+.h11
+{
+	color: white;
+	font-size: 220px;
+	padding-left: 80px;
+}
+.p1
+{
+	color: blue;
+	width: 100%;
+	padding-left: 80px;
+	font-size: 50px;
+	font-family: Times New Roman;
+}
+.p2
+{
+	text-align: center;
+	text-align: justify;
+	font-size: 24px;
+    width: 50%;
+    padding-left: 80px;
+    font-family: Times New Roman;
+}
+.mission
+{
+	color: blue;
+	font-size: 55px;
+	padding-left: 200px;
+}
+.immeuble
+{
+	padding-right: 100px;
+}
+.p3
+{
+	text-align: center;
+	text-align: justify;
+	font-size: 25px;
+    width: 50%;
+    padding-left: 200px;
+    font-family: Times New Roman;
+}
+.imgpyramide
+{
+	padding-left: 100px;
+}
+.buts
+{
+	text-align: right;
+	color: blue;
+	font-size: 55px;
+	padding-right: 550px;
+}
+.p4
+{
+	text-align: justify;
+	font-size: 25px;
+	padding-left: 385px;
+    width: 50%;
+    font-family: Times New Roman;
+}
+.fontgauche
+{
+	background-color: rgb(182, 182, 182);
+	width: 70%;
+}
+.salle
+{
+	padding-left: 100px;
+}
+.p5
+{
+	text-align: justify;
+	font-size: 25px;
+	padding-left: 100px;
+    width: 55%;
+    font-family: Times New Roman;
+}
+.fontdroit
+{
+	font-size: 50px;
+	padding-left: 100px;
+}
+.misobj
+{
+	color: blue;
+	font-size: 80px;
+    padding-left: 125px;
+}
+.bouton
+{
+	border: 0px blue solid;
+	background-color: blue;
+	text-align: center;
+	color: white;
+	padding-left: 100px;
+	padding-right: 100px;
+
+}
+.p6
+{
+	text-align: justify;
+	font-size: 30px;
+	padding-left: 50px;
+    width: 80%;
+    font-family: Times New Roman;
+}
+.photo2
+{
+	padding-left: 425px;
+}
+.p7
+{
+	text-align: justify;
+	font-size: 25px;
+	padding-left: 125px;
+    width: 80%;
+    font-family: Times New Roman;
+}
+.section4
+{
+	background-color: rgb(182, 182, 182);
+}
+.p8
+{
+	font-size: 70px;
+	color: blue;
+	padding-left: 150px;
+	width: 90%;
+}
+.auteur
+{
+	text-align: center;
+	font-size: 25px;
+	padding-bottom: 80px;
+}
+.rencontre
+{
+	text-align: center;
+	color: blue;
+	font-size: 100px;
+	font-family: arial;
+}
+.imgprf2
+{
+	padding-left: 400px;
+}
+.prf1, #logo1
+{
+	padding-left: 150px;
+}
+.prf2, #logo2
+{
+    padding-left: 500px;
+}
+.name
+{
+	font-size: 40px;
+}
+.section5
+{
+	background-color: rgb(182, 182, 182);
+}
+.h12
+{
+	color: white;
+	font-size: 220px;
+	padding-left: 80px;
+}
+.line1
+{
+	padding-left: 100px;
+	font-size: 30px;
+	font-family: georgian;
+	color: rgb(62, 62, 62);
+}
+.line2
+{
+	padding-left: 100px;
+	font-size: 55px;
+	color: blue;
+}
+.p9
+{
+	text-align: center;
+	text-align: justify;
+	font-size: 25px;
+    width: 20%;
+    padding-left: 100px;
+    font-family: Times New Roman;
+}
+.p10
+{
+	text-align: center;
+	text-align: justify;
+	font-size: 25px;
+    width: 20%;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-family: Times New Roman;
+}
+.bouton2
+{
+	border: 0px blue solid;
+	background-color: blue;
+	color: white;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+.bfg
+{
+	color: blue;
+	font-size: 90px;
+    padding-left: 150px;
+}
+.profil3
+{
+	border: 0px blue solid;
+	background-color: black;
+}
+.section6
+{
+	border: 0px black solid;
+	background-color: rgb(45, 45, 45);
+	color: white;
+	text-align: center;
+	font-size: 20px;
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+.lieu
+{
+	color: blue;
+	font-size: 35px;
+	text-align: center;
+	padding-left: 150px;
+}
+
