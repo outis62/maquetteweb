@@ -1,6 +1,7 @@
 .section1
 {
 	background-color: rgb(182, 182, 182);
+	padding-bottom: 50px;
 }
 #menu
 {
@@ -71,7 +72,7 @@
 .fontgauche
 {
 	background-color: rgb(182, 182, 182);
-	width: 70%;
+	width: 60%;
 }
 .salle
 {
@@ -87,7 +88,7 @@
 }
 .fontdroit
 {
-	font-size: 50px;
+	font-size: 40px;
 	padding-left: 100px;
 }
 .misobj
@@ -137,6 +138,10 @@
 	padding-left: 150px;
 	width: 90%;
 }
+.qote2
+{
+   padding-left: 1100px;
+}
 .auteur
 {
 	text-align: center;
@@ -150,17 +155,24 @@
 	font-size: 100px;
 	font-family: arial;
 }
+.imgprf1
+{
+	border-radius: 250px;
+	margin-left: 200px;
+}
 .imgprf2
 {
-	padding-left: 400px;
+	border-radius: 250px;
+	margin-left: 300px;
 }
 .prf1, #logo1
 {
 	padding-left: 150px;
+	margin-left: 100px;
 }
 .prf2, #logo2
 {
-    padding-left: 500px;
+    padding-left: 350px;
 }
 .name
 {
@@ -169,6 +181,7 @@
 .section5
 {
 	background-color: rgb(182, 182, 182);
+	padding-bottom: 50px;
 }
 .h12
 {
@@ -196,6 +209,7 @@
 	font-size: 25px;
     width: 20%;
     padding-left: 100px;
+    margin-bottom: 30px;
     font-family: Times New Roman;
 }
 .p10
@@ -220,14 +234,24 @@
 {
 	color: blue;
 	font-size: 90px;
-    padding-left: 150px;
+	margin: 100px;
+}
+.secur, .infor, .num
+{
+	margin-left: 100px;
 }
 .profil3
 {
-	border: 0px blue solid;
-	background-color: black;
+	/*border: 2px blue solid;*/
+	background-color: rgb(182, 182, 182);
+	margin-right: 30px;
 }
 .section6
+{
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+.section7
 {
 	border: 0px black solid;
 	background-color: rgb(45, 45, 45);
@@ -237,11 +261,39 @@
 	padding-bottom: 20px;
 	padding-top: 20px;
 }
+.imgprf3
+{
+	border-radius: 250px;
+	margin-left: 150px;
+	margin-top: 20px;
+}
 .lieu
 {
 	color: blue;
 	font-size: 35px;
 	text-align: center;
-	padding-left: 150px;
+	padding-left: 230px;
+}
+.avenu
+{
+	margin-left: 50px;
+	font-size: 20px;
+}
+.h31
+{
+	text-align: right;
+	margin-top: 200px;
+	margin-right: 70px;
+}
+.next
+{
+	margin-right: 70px;
+}
+.degrade-horizontal 
+{
+  background-color: blue;
+  width: 200px;
+  height: 300px;
+  margin-bottom: 300px;
 }
 
