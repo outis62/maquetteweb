@@ -5,8 +5,8 @@
 }
 #menu
 {
-	padding-left: 730px;
-	padding-top: 30px;
+	padding-left: 750px;
+	padding-top: 10px;
 }
 .h11
 {
@@ -17,9 +17,8 @@
 .p1
 {
 	color: blue;
-	width: 100%;
 	padding-left: 80px;
-	font-size: 50px;
+	font-size: 40px;
 	font-family: Times New Roman;
 }
 .p2
@@ -28,18 +27,19 @@
 	text-align: justify;
 	font-size: 24px;
     width: 50%;
-    padding-left: 80px;
+    padding-left: 60px;
     font-family: Times New Roman;
+    font-size: 20px;
 }
 .mission
 {
 	color: blue;
 	font-size: 55px;
-	padding-left: 200px;
+	padding-left: 150px;
 }
 .immeuble
 {
-	padding-right: 100px;
+	padding-right: 90px;
 }
 .p3
 {
@@ -47,7 +47,7 @@
 	text-align: justify;
 	font-size: 25px;
     width: 50%;
-    padding-left: 200px;
+    padding-left: 150px;
     font-family: Times New Roman;
 }
 .imgpyramide
@@ -59,24 +59,30 @@
 	text-align: right;
 	color: blue;
 	font-size: 55px;
-	padding-right: 550px;
+	padding-right: 600px;
 }
 .p4
 {
 	text-align: justify;
 	font-size: 25px;
-	padding-left: 385px;
+	padding-left: 400px;
     width: 50%;
     font-family: Times New Roman;
+}
+.section2
+{
+	display: flex;
+	margin-top: 50px;
 }
 .fontgauche
 {
 	background-color: rgb(182, 182, 182);
-	width: 60%;
+	width: 150%;
 }
 .salle
 {
 	padding-left: 100px;
+	margin-top: 15px;
 }
 .p5
 {
@@ -167,12 +173,16 @@
 }
 .prf1, #logo1
 {
-	padding-left: 150px;
+	padding-left: 250px;
 	margin-left: 100px;
+	position: relative;
+	bottom: 200px;
 }
 .prf2, #logo2
 {
     padding-left: 350px;
+    position: relative;
+    bottom: 200px;
 }
 .name
 {
@@ -244,7 +254,7 @@
 {
 	/*border: 2px blue solid;*/
 	background-color: rgb(182, 182, 182);
-	margin-right: 30px;
+	margin-right: 90px;
 }
 .section6
 {
@@ -264,25 +274,25 @@
 .imgprf3
 {
 	border-radius: 250px;
-	margin-left: 150px;
-	margin-top: 20px;
+	margin-left: 270px;
+	margin-top: 10px;
 }
 .lieu
 {
 	color: blue;
 	font-size: 35px;
 	text-align: center;
-	padding-left: 230px;
+	padding-left: 370px;
 }
 .avenu
 {
-	margin-left: 50px;
+	margin-left: 290px;
 	font-size: 20px;
 }
 .h31
 {
 	text-align: right;
-	margin-top: 200px;
+	margin-top: 400px;
 	margin-right: 70px;
 }
 .next
@@ -292,8 +302,13 @@
 .degrade-horizontal 
 {
   background-color: blue;
-  width: 200px;
-  height: 300px;
+  width: 600px;
+  height: 400px;
   margin-bottom: 300px;
 }
-
+.hr2 
+{
+	margin-right: 250px;
+	height: 10px;
+	background-color: black;
+}
